@@ -15,7 +15,7 @@ default_img:
 # Profile settings
 name: Abhijit Tomar
 profile_img: /assets/images/profile_img.jpg
-profile: Abhijit Tomar is a student at IIT Bombay.
+profile: Abhijit Tomar is a student at IIT Bombay. When he's not programming, he's usually out for a run or playing football.
 social:
   github: https://github.com/abhijitt
 

@@ -5,19 +5,66 @@
     <description>Abhijit Tomar&#39;s blog</description>
     <link>blog.abhijittomar.com/</link>
     <atom:link href="blog.abhijittomar.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Sep 2016 19:56:31 +0530</pubDate>
-    <lastBuildDate>Tue, 20 Sep 2016 19:56:31 +0530</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2016 01:32:29 +0530</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2016 01:32:29 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>A student&#39;s guide to freelancing</title>
-        <description>&lt;p&gt;Flexitarian fixie keytar vice craft beer. Forage normcore cred austin brunch, put a bird on it actually. Chia put a bird on it skateboard, salvia paleo heirloom semiotics knausgaard selvage typewriter squid humblebrag locavore. Fap etsy actually PBR&amp;amp;B, franzen sriracha scenester. 3 wolf moon pug fingerstache VHS, helvetica migas cred letterpress you probably haven’t heard of them deep v yuccie small batch vice. Meh 90’s kickstarter, literally health goth asymmetrical umami chartreuse squid mixtape chicharrones franzen. Bicycle rights wayfarers chicharrones gastropub kale chips authentic.&lt;/p&gt;
+        <description>&lt;p&gt;This article is a follow-up to the freelancing session conducted by Abhijit Tomar and Harshit Manocha at IIT Bombay on 17th of September 2016. It is intended to be a primer for any student looking to work as a part time freelancer. Two paths will be covered- those of a developer and a designer.
+This post will cover the broad topics of:&lt;/p&gt;
 
-&lt;p&gt;Poutine hella seitan affogato mixtape, +1 vice drinking vinegar chartreuse fashion axe iPhone 8-bit helvetica migas. Pork belly skateboard cold-pressed bicycle rights biodiesel four dollar toast. PBR&amp;amp;B post-ironic wayfarers 8-bit health goth. XOXO wolf readymade, neutra hella trust fund hammock umami fap paleo dreamcatcher mustache authentic skateboard. Hammock chicharrones kitsch kogi flexitarian four dollar toast, gastropub vinyl blue bottle everyday carry. Meggings kinfolk art party pop-up. Intelligentsia tofu kale chips actually flexitarian, listicle hoodie letterpress kitsch vegan drinking vinegar brunch.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#1&quot;&gt;Why freelancing?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#2&quot;&gt;A student’s approach&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#3&quot;&gt;Opportunities overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#4&quot;&gt;Online freelancing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#5&quot;&gt;Hot skills&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#6&quot;&gt;Avoiding common issues&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#7&quot;&gt;Staying grounded&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#8&quot;&gt;Getting the right client&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#9&quot;&gt;Before a deal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#10&quot;&gt;Into the deal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#11&quot;&gt;Tips&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Bushwick leggings yuccie authentic, whatever forage brooklyn celiac. Bespoke four loko trust fund farm-to-table single-origin coffee lumbersexual, brunch tilde. Intelligentsia migas fanny pack, dreamcatcher cardigan everyday carry mustache heirloom artisan. Marfa twee aesthetic messenger bag, you probably haven’t heard of them meditation offal disrupt gentrify tousled poutine PBR&amp;amp;B keffiyeh cornhole deep v. Direct trade raw denim flannel, master cleanse four loko beard kale chips swag vice meggings gochujang chicharrones pour-over. Master cleanse man braid before they sold out authentic scenester. Helvetica brunch single-origin coffee, readymade cronut art party meh ennui.&lt;/p&gt;
+&lt;h3 id=&quot;a-name1awhy-freelancing&quot;&gt;&lt;a name=&quot;1&quot;&gt;&lt;/a&gt;Why freelancing?&lt;/h3&gt;
+&lt;p&gt;You may want to get into freelancing for three reasons-&lt;/p&gt;
 
-&lt;p&gt;Drinking vinegar readymade mlkshk hashtag, seitan man braid salvia fixie meggings hella venmo kinfolk williamsburg next level aesthetic. Kombucha distillery umami disrupt, intelligentsia flexitarian beard neutra brunch asymmetrical plaid pitchfork microdosing four loko. Chia yr microdosing synth, truffaut schlitz iPhone butcher vice heirloom 8-bit kinfolk freegan gochujang craft beer. Craft beer banjo flannel deep v pitchfork beard, trust fund biodiesel. Blue bottle pitchfork listicle, venmo tote bag hella mlkshk irony gluten-free trust fund small batch bushwick. Irony kinfolk gentrify put a bird on it marfa. Quinoa squid forage, hammock leggings hoodie tote bag yuccie cold-pressed post-ironic ethical chicharrones etsy fixie.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;To learn
+As a student, freelancing can be a great way to learn. It can provide an insight into how companies work. Working on live projects with actual goals and deadlines gives you a real-world experience that is not easily achieved in the safe, classroom setting.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To earn
+Even if you are not short on cash, freelancing can be a way to earn some pocket money. The feeling of independence it provides is also worth putting in the hours for.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Skill building
+While working, you are simultaneously building your technical skills. This can open doors to bigger and better opportunities in future.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;a-name2aa-students-approach&quot;&gt;&lt;a name=&quot;2&quot;&gt;&lt;/a&gt;A student’s approach&lt;/h3&gt;
+
+&lt;h3 id=&quot;a-name3aopportunities-overview&quot;&gt;&lt;a name=&quot;3&quot;&gt;&lt;/a&gt;Opportunities Overview&lt;/h3&gt;
+
+&lt;h3 id=&quot;a-name4aonline-freelancing&quot;&gt;&lt;a name=&quot;4&quot;&gt;&lt;/a&gt;Online freelancing&lt;/h3&gt;
+
+&lt;h3 id=&quot;a-name5ahot-skills&quot;&gt;&lt;a name=&quot;5&quot;&gt;&lt;/a&gt;Hot skills&lt;/h3&gt;
+
+&lt;h3 id=&quot;a-name6aavoiding-common-issues&quot;&gt;&lt;a name=&quot;6&quot;&gt;&lt;/a&gt;Avoiding common issues&lt;/h3&gt;
+
+&lt;h3 id=&quot;a-name7astaying-grounded&quot;&gt;&lt;a name=&quot;7&quot;&gt;&lt;/a&gt;Staying grounded&lt;/h3&gt;
+
+&lt;h3 id=&quot;a-name8agetting-the-right-client&quot;&gt;&lt;a name=&quot;8&quot;&gt;&lt;/a&gt;Getting the right client&lt;/h3&gt;
+
+&lt;h3 id=&quot;a-name9abefore-a-deal&quot;&gt;&lt;a name=&quot;9&quot;&gt;&lt;/a&gt;Before a deal&lt;/h3&gt;
+
+&lt;h3 id=&quot;a-name10ainto-a-deal&quot;&gt;&lt;a name=&quot;10&quot;&gt;&lt;/a&gt;Into a deal&lt;/h3&gt;
+
+&lt;h3 id=&quot;a-name11atips&quot;&gt;&lt;a name=&quot;11&quot;&gt;&lt;/a&gt;Tips&lt;/h3&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 +0530</pubDate>
         <link>blog.abhijittomar.com/2016/09/20/student-freelancing/</link>
