@@ -1,0 +1,33 @@
+# Site settings
+email: abhijit@abhijittomar.com
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics: UA-84479457-1
+
+# SEO settings
+title: Blog | Abhijit Tomar
+description: Abhijit Tomar's blog
+url: "blog.abhijittomar.com"
+twitter_username: 
+default_img: 
+
+# Profile settings
+name: Abhijit Tomar
+profile_img: /assets/images/profile_img.jpg
+profile: Abhijit Tomar is a student at IIT Bombay.
+social:
+  github: https://github.com/abhijitt
+
+# Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
