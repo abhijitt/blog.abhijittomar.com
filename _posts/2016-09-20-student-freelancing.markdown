@@ -6,8 +6,8 @@ categories:
   - Freelancing
   - Web Development
 description: 
-image: /assets/images/student-freelancing/1200.jpe
-image-sm: /assets/images/student-freelancing/300.jpe
+image: /assets/images/student-freelancing/1200.jpg
+image-sm: /assets/images/student-freelancing/300.jpg
 ---
 This article is a follow-up to the freelancing session conducted by Abhijit Tomar and Harshit Manocha at IIT Bombay on 17th of September 2016. It is intended to be a primer for any student looking to work as a part time freelancer. Two paths will be covered- those of a developer and a designer.
 This post will cover the broad topics of:
