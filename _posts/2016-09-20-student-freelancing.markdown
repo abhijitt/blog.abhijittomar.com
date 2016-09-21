@@ -82,7 +82,7 @@ There are several websites that serve as platforms for freelancers to meet clien
 
 - [**Toptal**](https://toptal.com)
 
- If you have reason to believe that your skills are better than the majority of professionals in your field, then this is the place for you. Toptal advertises itself to host the crème de la crème in the freelancing world. You can naturally expect to be paid higher than on other platforms (given you are able to clear the selection process). However, it is only for full-time freelancers. So, if you want to make a career in freelancing this should be what you aim for.
+ If you have reason to believe that your skills are better than the majority of professionals in your field, then this is the place for you. Toptal advertises itself to host the crème de la crème in the freelancing world. You can naturally expect to be paid higher than on other platforms (given you are able to clear the selection process). However, it is only for full-time freelancers. So, if you want to make a career in freelancing this is what you should be aiming for.
 
 ## <a name="avoiding-common-issues"></a>Avoiding common issues
 There can be many issues (pesky clients) you may run into while working as a freelancer. Some of them are:
