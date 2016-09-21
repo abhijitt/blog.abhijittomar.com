@@ -73,28 +73,43 @@ There are several websites that serve as platforms for freelancers to meet clien
     This may be a better option for someone looking to make a stable income. You make your profile and list your hourly rate. Start at low rates, rack up good reviews and earn your way to a larger hourly rate.
 -   [Toptal](https://toptal.com)
 
-    If you have reason to believe that your skills are better than the majority of professionals in your field. Toptal advertises itself to host the crème de la crème in the freelancing world. You can naturally expect to be paid higher than on other platforms (given you are able to clear the selection process). However, it is only for full-time freelancers.
+    If you have reason to believe that your skills are better than the majority of professionals in your field, then this is the place for you. Toptal advertises itself to host the crème de la crème in the freelancing world. You can naturally expect to be paid higher than on other platforms (given you are able to clear the selection process). However, it is only for full-time freelancers.
 
 ## <a name="avoiding-common-issues"></a>Avoiding common issues
 There can be many issues (pesky clients) you may run into while working as a freelancer. Some of them are:
+![dilbert-comic](/assets/images/student-freelancing/dilbert-comic.jpg){: style="width:250px; float:left; margin:20px"}
 
 -   Technically challenged clients
     
-    I have worked with clients, who after two months of sitting beside me at work, had no idea what I *really* did (I worked on their Android app as a backend developer). You will often meet who will have difficulty wrapping their head around what you work on. Since they have zero knowledge of technical matters, it can be difficult for them to understand what is easy, difficult, or impossible. Many a times, the freelancer and client run into problems due to not being able to communicate effectively.
+    I have worked with clients, who even after several months had no idea what I *really* did (I work as a backend developer). You will often meet who will have difficulty wrapping their head around what you work on. Since they have zero knowledge of technical matters, it can be difficult for them to understand what is easy, difficult, or impossible to accomplish. This person views every technical job as the exact same black box. Many a times, the freelancer and client run into problems due to not being able to communicate effectively.
 
 -   The future billionaire
 
-    He is convinced his app / website is going to hit it big. His favourite sentence is "We are going to be the Uber of X". Delusional is the word to describe this person. He will not feel stupid dropping the line, "This is a billion dollar idea..." on the first meeting. Unless he has a past record of creating multi-million dollar business, this is the point where you fake an emergency and promise to get back to him next week (never).
+    He is convinced his app / website is going to hit it big. His favourite sentence is "We are going to be the Uber of X". Delusional is the word to describe this person. He will not feel stupid dropping the line, "This is a billion dollar idea..." on the first meeting. Unless he has a past record of creating multi-million dollar business, this is the point where you fake an emergency and promise to get back next week (never).
 
 -   Sleazy start-up guy
 
-    Hey! I can't pay you right now, but you can be the CTO with X% equity in my startup. This may or may not be the future billionaire's partner in crime. The first question you should ask yourself is, "Why did he just offer me 15% of his self-proclaimed future billion dollar startup on the first meeting?" Dealing with such an insincere person, you will end up wasting a lot of time. Avoid this person at all costs.
+    Hey! I can't pay you right now, but you can be the CTO with X% equity in my startup. This may or may not be the future billionaire's partner in crime. The first question you should ask yourself is, "Why did he so easily offer me 15% of his self-proclaimed billion dollar startup on the first meeting?" This can be for two reasons- either he knows the shares aren't worth anything, or he believes they are and is gullible enough to give them to you on the first meeting. Dealing with such an insincere / slow person, you will only end up wasting your time. Avoid this person at all costs.
+
 
 ## <a name="staying-grounded"></a>Staying grounded
-
+From the above representations you may think no one could fall for such obvious mistakes. However in real life the prospects offered can sound convincing and tempting. Most clients you deal with will have some degree of the above listed attributes. In such a scenario, it is important to keep a professional relation. Stay an arm's length and do not get involved into the start-up more than your job requires. If you do get involved, do remember that most (even genuinely good) ideas fail for random reasons in the real world. You have better odds hitting it large in the powerball. Even if you have a great team, with strong fundamental and a clear gameplan, you will only likely be mildly successful at best.
 
 ## <a name="getting-the-right-client"></a>Getting the right client
+As a student, the act of freelancing is essentially brought down to choosing the right client. Try to get a client who:
 
+-   Has skills
+
+    There is no better to enhance your skills than to work with a more skilled team. Getting such a client can be made easier if you leave out the goal of making profits. If your only takeaway in the project is money, your takeaway in the long term is zero.
+-   Someone you can trust
+
+    I cannot stress how important this is.
+-   Someone you can learn from
+
+    Learning can be not just technical.
+-   Someone with brand value
+
+    Working with a company / person who has already made it large in life can set you up for good things in future.
 
 ## <a name="before-a-deal"></a>Before a deal
 
