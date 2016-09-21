@@ -117,7 +117,7 @@ As a student, the act of freelancing is essentially brought down to choosing the
 If it isn't obvious yet, you need to be very clear about what you're going to go and what you're not. Do the following:
 
 -   Define scope of work clearly to prevent being exploited. Eg- "I'll give three iterations. Every change from there is going to cost more".
--   Discuss the schedules and timeline. Pass them through the client.
+-   Discuss the schedules and timeline. Run them through the client.
 -   Describe the deliverables for formatting / compatibility.
 -   If possible, show a demo deliverable from previous projects.
 -   Lay out the payment schedule. Prefer to be paid weekly, or partly in advance.
