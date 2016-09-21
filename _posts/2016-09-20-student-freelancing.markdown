@@ -81,7 +81,7 @@ There can be many issues (pesky clients) you may run into while working as a fre
 
 -   Technically challenged clients
     
-    I have worked with clients, who even after several months had no idea what I *really* did (I work as a backend developer). You will often meet who will have difficulty wrapping their head around what you work on. Since they have zero knowledge of technical matters, it can be difficult for them to understand what is easy, difficult, or impossible to accomplish. This person views every technical job as the exact same black box. Many a times, the freelancer and client run into problems due to not being able to communicate effectively.
+    I have worked with clients, who even after several months had no idea what I *really* did (I work as a backend developer). You will often meet who will have difficulty wrapping their head around what you work on. Since they have zero knowledge of technical matters, it can be difficult for them to understand what is easy, difficult, or impossible to accomplish. It can also get difficult for you to justify how much you should be paid. Some view everything technical as the same black box and may have unreasonable demands ("Okay it's almost done, but we just add a chat feature to this website? I'm sure it's easy - every website has it these days."). You will run into problems with this client due to not being able to communicate effectively (which may not be the fault of anyone in particular).
 
 -   The future billionaire
 
@@ -93,28 +93,53 @@ There can be many issues (pesky clients) you may run into while working as a fre
 
 
 ## <a name="staying-grounded"></a>Staying grounded
-From the above representations you may think no one could fall for such obvious mistakes. However in real life the prospects offered can sound convincing and tempting. Most clients you deal with will have some degree of the above listed attributes. In such a scenario, it is important to keep a professional relation. Stay an arm's length and do not get involved into the start-up more than your job requires. If you do get involved, do remember that most (even genuinely good) ideas fail for random reasons in the real world. You have better odds hitting it large in the powerball. Even if you have a great team, with strong fundamental and a clear gameplan, you will only likely be mildly successful at best.
+From the above representations you may think no one could fall for such obvious mistakes. However in real life the prospects offered can sound convincing and tempting. Most clients you deal with will have some degree of the above listed attributes. In such a scenario, it is important to keep a professional relation. Stay an arm's length and do not get involved into the start-up more than your job requires. If you do get involved, do remember that most (even genuinely good) ideas fail for random reasons in the real world. You have better odds hitting it large in the powerball. Even if you have a great team with a clear gameplan, you will only likely be mildly successful at best.
 
 ## <a name="getting-the-right-client"></a>Getting the right client
-As a student, the act of freelancing is essentially brought down to choosing the right client. Try to get a client who:
+As a student, the act of freelancing is essentially brought down to choosing the right client. Try to get a client with the following qualities:
 
 -   Has skills
 
     There is no better to enhance your skills than to work with a more skilled team. Getting such a client can be made easier if you leave out the goal of making profits. If your only takeaway in the project is money, your takeaway in the long term is zero.
 -   Someone you can trust
 
-    I cannot stress how important this is.
+    I cannot stress how important this is. While working on real projects, there is a great deal that can go wrong. There are people out there who will screw you over at the first opportunity they get. Trust your instincts, if it doesn't feel right it probably isn't.
 -   Someone you can learn from
 
-    Learning can be not just technical.
+    Learning can be not just technical. Most of the learning you will derive as a freelancer will be implicit and non-technical. You need someone with strong ethics and fundamentals in the field he/she is working. 
 -   Someone with brand value
 
     Working with a company / person who has already made it large in life can set you up for good things in future.
 
 ## <a name="before-a-deal"></a>Before a deal
+**Write. Everything. Down.** Making a website isn't the same as knowing HTML/CSS. You need to write html/css/js code, get hosting, configure access controls, set up a webserver, set up software for production deployment, set up and configure the database, set up admin accounts and controls, get a domain name, configure dns, install an ssl certificate, install failsafe measures for the production server, ensure data backups at intervals, log activity, implement abuse prevention safeguards and test to ensure the website doesn't contain vulnerabilities (non-exhaustive).
+
+If it isn't obvious yet, you need to be very clear about what you're going to go and what you're not. Do the following:
+
+-   Define scope of work clearly to prevent being exploited. Eg- "I'll give three iterations. Every change from there is going to cost more".
+-   Discuss the schedules and timeline. Pass them through the client.
+-   Describe the deliverables for formatting / compatibility.
+-   If possible, show a demo deliverable from previous projects.
+-   Lay out the payment schedule. Prefer to be paid weekly, or partly in advance.
 
 
 ## <a name="into-a-deal"></a>Into a deal
 
+-   Don't hand over the work until complete payment has been made. Your service is worth nothing to the client once he already has it.
+-   Be professional - use online tools for drafting proposals and invoices.
+-   Communicate with the client. Most problems can be solved with just a small chat.
+-   Notify progress and keep the client updated. Send out mail at least once a week.
+-   Be honest. Is it going to take you a day more? Most clients will be accomodating if you're honest with them from the start.
+-   Undercommit and overdeliver. Don't promise anything you can't keep. The client would have been with two weeks, but you said one. Better to say two and surprise him.
+-   Even if the client asks for something extra later, just do it (given it doesn't take too much time).
+-   Hand over work in proper format (git for developers, Dropbox / Google Drive for designers).
+-   Own the project. Work on it like it's your baby. If you can do anything to make it better - even if it's not your job - do it (again, time matters).
+
 
 ## <a name="tips"></a>Tips
+
+-   Look into forming a binding contract with the client (even if you trust him).
+-   Get a web presence (personal website / behance / dribble / facebook page).
+-   Just because they're paying doesn't mean you're a slave. Lay out contact hours.
+-   Feel free to fire clients.
+-   If you don't know how to do it, say yes and learn later :)
