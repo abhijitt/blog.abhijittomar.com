@@ -5,7 +5,7 @@ date: 2016-09-20
 categories: 
   - Freelancing
   - Web Development
-description: 
+description: Tips for budding freelancers
 image: /assets/images/student-freelancing/1200.jpg
 image-sm: /assets/images/student-freelancing/300.jpg
 ---
