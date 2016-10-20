@@ -8,9 +8,9 @@ google_analytics: UA-84479457-1
 # SEO settings
 title: Blog
 description: Abhijit Tomar's blog
-url: "blog.abhijittomar.com"
+url: "http://blog.abhijittomar.com"
 twitter_username: 
-default_img: 
+default_img: /assets/images/student-freelancing/1200.jpg
 
 # Profile settings
 name: Abhijit Tomar
