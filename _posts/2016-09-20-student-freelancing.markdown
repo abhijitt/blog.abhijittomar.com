@@ -5,7 +5,7 @@ date: 2016-09-20
 categories: 
   - Freelancing
   - Web Development
-description: Tips for budding freelancers
+description: A primer on freelancing for student developers and designers
 image: /assets/images/student-freelancing/1200.jpg
 image-sm: /assets/images/student-freelancing/300.jpg
 ---
