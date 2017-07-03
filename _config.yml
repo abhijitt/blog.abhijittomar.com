@@ -17,7 +17,9 @@ name: Abhijit Tomar
 profile_img: /assets/images/profile_img.jpg
 profile: Abhijit Tomar is a student at IIT Bombay. When he's not programming, he's usually out for a run or playing football.
 social:
-  github: https://github.com/abhijitt
+  github: https://github.com/abhijitt/
+  linkedin: https://www.linkedin.com/in/abhijittomar/
+  facebook: https://facebook.com/abhijit.tomar/
 
 # Build settings
 include: ["_categories"]
