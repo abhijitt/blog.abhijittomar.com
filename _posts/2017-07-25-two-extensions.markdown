@@ -10,7 +10,7 @@ image-sm: /assets/images/two-extensions/UBlock_privacybadger.png
 ---
 Every minute you spend on the internet, you are being watched. Each site you visit tracks you and tries to sell your information to the highest bidder. It is known.
 
-So what tools do you have to keep your internet browsing private? As a wise man once said, a browser needs extensions as a sword needs a whetstone, if it is to keep its edge:
+So what tools can you employ to keep your internet browsing private? As a wise man once said, a browser needs extensions as a sword needs a whetstone, if it is to keep its edge:
 
 ## uBlock Origin
 
