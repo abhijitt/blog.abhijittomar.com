@@ -5,9 +5,42 @@
     <description>Abhijit Tomar&#39;s blog</description>
     <link>blog.abhijittomar.com/</link>
     <atom:link href="blog.abhijittomar.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jul 2017 23:51:56 +0530</pubDate>
-    <lastBuildDate>Thu, 06 Jul 2017 23:51:56 +0530</lastBuildDate>
+    <pubDate>Tue, 25 Jul 2017 23:08:55 +0530</pubDate>
+    <lastBuildDate>Tue, 25 Jul 2017 23:08:55 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Two browser extensions everyone should be using</title>
+        <description>&lt;p&gt;Every minute you spend on the internet, you are being watched. Each site you visit tracks you and tries to sell your information to the highest bidder. It is known.&lt;/p&gt;
+
+&lt;p&gt;So what tools do you have to keep your internet browsing private? As a wise man once said, a browser needs extensions as a sword needs a whetstone, if it is to keep its edge:&lt;/p&gt;
+
+&lt;h2 id=&quot;ublock-origin&quot;&gt;uBlock Origin&lt;/h2&gt;
+
+&lt;p&gt;Best ad-blocker in the market. Period. Other major ones are making money selling your browsing information.&lt;a href=&quot;https://www.wired.com/2016/03/heres-how-that-adblocker-youre-using-makes-money/&quot;&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/a&gt; Or allowing companies to bypass ad-blocking by paying them, effectively holding you for a ransom.&lt;a href=&quot;http://www.businessinsider.in/Google-Microsoft-and-Amazon-are-paying-Adblock-Plus-huge-fees-to-get-their-ads-unblocked/articleshow/46109705.cms&quot;&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/a&gt;&lt;a href=&quot;https://www.theguardian.com/business/2016/sep/13/adblock-plus-launching-platform-to-sell-acceptable-ads&quot;&gt;&lt;sup&gt;[3]&lt;/sup&gt;&lt;/a&gt;&lt;a href=&quot;https://www.theverge.com/2016/9/13/12890050/adblock-plus-now-sells-ads&quot;&gt;&lt;sup&gt;[4]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Download for &lt;a href=&quot;https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm&quot;&gt;Chrome&lt;/a&gt;, &lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/&quot;&gt;Firefox&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;privacy-badger&quot;&gt;Privacy Badger&lt;/h2&gt;
+
+&lt;p&gt;For a basic explanation I quote the makers of this extension, the &lt;a href=&quot;https://www.eff.org/privacybadger#faq-How-does-Privacy-Badger-work?&quot;&gt;Electronic Frontier Foundation:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When you view a webpage, that page will often be made up of content from many different sources.  (For example, a news webpage might load the actual article from the news company, ads from an ad company, and the comments section from a different company that’s been contracted out to provide that service.)  Privacy Badger keeps track of all of this.  If as you browse the web, the same source seems to be tracking your browser across different websites, then Privacy Badger springs into action, telling your browser not to load any more content from that source.  And when your browser stops loading content from a source, that source can no longer track you.  Voila!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Download for &lt;a href=&quot;https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp&quot;&gt;Chrome&lt;/a&gt;, &lt;a href=&quot;https://addons.mozilla.org/en-us/firefox/addon/privacy-badger17/&quot;&gt;Firefox&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What other extension do you think deserves a place in this list? Comment below.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Jul 2017 00:00:00 +0530</pubDate>
+        <link>blog.abhijittomar.com/2017/07/25/two-extensions/</link>
+        <guid isPermaLink="true">blog.abhijittomar.com/2017/07/25/two-extensions/</guid>
+        
+        
+        <category>Software</category>
+        
+      </item>
     
       <item>
         <title>Dubai Review</title>
