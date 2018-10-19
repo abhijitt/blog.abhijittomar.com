@@ -4,6 +4,7 @@ title: "Two browser extensions everyone should be using"
 date: 2017-07-25
 categories: 
   - Software
+  - Technology
 description: Two extensions that help you protect your privacy online [2 min read]
 image: /assets/images/two-extensions/UBlock_privacybadger.png
 image-sm: /assets/images/two-extensions/UBlock_privacybadger.png

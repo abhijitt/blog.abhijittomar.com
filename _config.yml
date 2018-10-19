@@ -15,7 +15,7 @@ default_img: /assets/images/student-freelancing/1200.jpg
 # Profile settings
 name: Abhijit Tomar
 profile_img: /assets/images/profile_img.jpg
-profile: Abhijit Tomar is a student at IIT Bombay. When he's not programming, he's usually out for a run or playing football.
+profile: Abhijit Tomar is an IIT Bombay alumnus currently working as a software devloper at Microsoft. When he's not programming, he's usually out for a run or playing football.
 social:
   github: https://github.com/abhijitt/
   linkedin: https://www.linkedin.com/in/abhijittomar/
