@@ -6,7 +6,7 @@ categories:
   - Scam
   - Software
   - Technology
-description: A new type of banking scam involving fake business listings is taking over Google[3 min read]
+description: A new type of banking scam involving fake business listings is taking over Google [3 min read]
 image: /assets/images/bank-scam/1200.jpg
 image-sm: /assets/images/bank-scam/300.jpg
 ---
