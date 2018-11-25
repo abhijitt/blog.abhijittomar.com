@@ -32,3 +32,8 @@ What can be said of an Indian public sector bank though? Technically they cannot
 There are multiple reviews claiming the listed number is fake. As of now, both fake numbers are still listed. A lot of information you see on Google is user contributed and often not vetted by any human. So do think twice next time you trust any information listed on Google. And if it's a bank phone number, definitely don't.
 
 Know of any other such deceptive scam methods? [Tell me about it](mailto:abhijit@abhijittomar.com).
+
+EDIT (26/11/2018) : Since the time of publishing of this post, reports of this scam have been published by multiple news outlets-
+
+- [Business Insider](https://www.businessinsider.in/Scammers-are-changing-the-contact-details-for-banks-on-Google-Maps-to-defraud-people/articleshow/66797017.cms)
+- [The Hindu](https://www.thehindu.com/sci-tech/technology/a-new-bank-scam-using-google-maps-loophole/article25541414.ece)
