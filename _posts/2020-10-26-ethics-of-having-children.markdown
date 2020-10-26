@@ -4,7 +4,7 @@ title: "On the ethics of having children"
 date: 2020-10-26
 categories: 
   - Philosophy
-description:  [7 min read]
+description: The murky ethics of the act of creation [7 min read]
 image: /assets/images/ethics-children/1200.jpg
 image-sm: /assets/images/ethics-children/300.jpg
 ---
